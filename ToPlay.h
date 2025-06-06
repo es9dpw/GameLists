@@ -1,8 +1,6 @@
 #pragma once
 #include "Link.h"
 
-using namespace std;
-
 class ToPlay {
 public:
     Link* first;
