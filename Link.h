@@ -1,8 +1,6 @@
 #pragma once
 #include "Game.h"
 
-using namespace std;
-
 class Link {
 public:
     Game* data;
