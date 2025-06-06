@@ -1,8 +1,6 @@
 #pragma once
 #include "Node.h"
 
-using namespace std;
-
 class Completed {
 public:
     Node* root;
