@@ -12,7 +12,6 @@ int main()
 {
 	bool menuExit = false;
 	string menuOption;
-	string listOption;
 	int time;
 	string name;
 	string alreadyTime;
